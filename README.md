@@ -1,4 +1,4 @@
-# CustomLinkedList 
+# CustomLinkedListExample
 
 # Hi all,
 # This is an example of custom linked list from scratch in Java.
